@@ -12,7 +12,7 @@ files: /js/demo.js,/css/demo.css
 [slide]
 
 # 前端工程化探索
-![Alt text](/md/11.png)
+![Alt text](https://raw.githubusercontent.com/BETH-zhang/ppt/master/11.png)
 
 [slide style="background-image:url('/img/bg1.png')"]
 
@@ -29,7 +29,7 @@ files: /js/demo.js,/css/demo.css
 [slide]
 
 #### 一个运行原理
-![Alt text](./fis-compile-flow.png)
+![Alt text](https://raw.githubusercontent.com/BETH-zhang/ppt/master/fis-compile-flow.png)
 
 [slide]
 
