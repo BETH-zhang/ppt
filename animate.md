@@ -32,7 +32,7 @@ theme: pick
 |2005|谷歌利用Ajax技术打造Gmail和谷歌地图之后－Ajax大受关注<br/>前端的第一次飞跃（进入Web2.0时代）|
 |2010|推出html5的画布功能-Canvas,在网页上绘制2D图像<br />canvas 元素绘制路径、矩形、圆形、字符以及添加图像 |
 |2014|HTML5标准发布，支持网页端的Audio、Video等多媒体功能，基于SVG、Canvas、WebGL及CSS3的3D功能，Html5取代Flash在移动设备的地位|
-|2015|Flash正式走向消亡，Adobe公司推出Animate CC取代之前Flash Professional CC；支持Flash SWF、AIR格式的同时，还会支持HTML5 Canvas、WebG，并能通过可扩展架构去支持包括SVG在内的几乎任何动画格式。|
+|2015|Flash正式走向消亡，Adobe公司推出Animate CC取代之前Flash Professional CC；支持Flash SWF、AIR格式的同时，还会支持HTML5 Canvas、WebGL，并能通过可扩展架构去支持包括SVG在内的几乎任何动画格式。|
 
 [slide]
 <div class="title" style="position: absolute;
@@ -202,3 +202,16 @@ $element
 <img src="/img/text2.png" />
 <img src="/img/text3.png" />
 
+
+[slide]
+<div class="avatar" style="font-weight: bolder;
+  margin-bottom: 30px;">
+  <img src="/img/2018beth.jpeg" alt="beth" style="width: 80px;height: 80px;min-width: initial!important;
+  min-height: initial!important;
+  position: initial!important;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;" />
+</div>
+# 谢谢!
